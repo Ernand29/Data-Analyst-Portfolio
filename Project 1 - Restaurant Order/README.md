@@ -1,4 +1,7 @@
 # SQL-Portofolio
+
+[Read this in English](./README_ENG.md)
+
 ## 📝 Ringkasan Proyek
 
 Proyek ini bertujuan untuk menganalisis data operasional sebuah restoran menggunakan SQL. Analisis mencakup eksplorasi menu, pola pemesanan pelanggan, dan performa penjualan secara keseluruhan. Dengan menggunakan serangkaian query SQL, saya menggali data untuk menjawab pertanyaan-pertanyaan bisnis kunci dan memberikan wawasan yang dapat ditindaklanjuti untuk meningkatkan strategi menu dan operasional restoran.
