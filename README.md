@@ -25,7 +25,7 @@ Here is a list of my projects. Click on a project to see its detailed repository
 | ------------------------------------------ | ------------------------------------------------------------------------------------ | --------------- | ---------------------------------------------------------------------------------------------------------- |
 | **Mexico Toy Sales Analysis** 🧸           | An interactive Power BI dashboard to analyze sales performance and identify key profit drivers for a toy retailer in Mexico. | Power BI, DAX   | [View Project](https://github.com/Ernand29/Data-Analyst-Portfolio/tree/main/Project%202%20-%20Mexico%20Toy%20Sales) |
 | **Restaurant Order Analysis** 🍕         | An SQL-based analysis to uncover patterns in customer orders, popular items, and peak dining hours. | SQL             | [View Project](https://github.com/Ernand29/Data-Analyst-Portfolio/tree/main/Project%201%20-%20Restaurant%20Order)   |
-| **`[Coming Soon]` ** 🚀            | `[Coming Soon]`                       | `[Coming Soon]`   | `[Coming Soon]`                                                                                            |
+| **Coffee Shop Sales Analysis** ☕️            | An interactive dashboard in Excel to analyze sales, identify peak hours, and uncover best-selling product categories.                       | Excel, PivotTables   | [View Project](https://github.com/Ernand29/Data-Analyst-Portfolio/tree/main/Excel%20Project)                                                                                            |
 
 ---
 
