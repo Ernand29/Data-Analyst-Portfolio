@@ -67,10 +67,10 @@ Berdasarkan analisis, berikut adalah rekomendasi yang diberikan:
 * **Optimasi Menu**: Tonjolkan dan promosikan item populer dari kategori 'Italian'. Pertimbangkan untuk mengevaluasi ulang atau membuat promosi khusus untuk item yang kurang populer seperti 'house salad' dan 'french fries' untuk meningkatkan penjualan.
 * **Staf dan Operasional**: Sesuaikan jadwal staf untuk memastikan cakupan yang memadai selama jam puncak yang telah diidentifikasi (12:00-13:00 dan 17:00-19:00) untuk meningkatkan kecepatan layanan dan kepuasan pelanggan.
 * **Strategi Pemasaran**: Buat kampanye pemasaran yang ditargetkan, seperti 'paket makan siang spesial', untuk memanfaatkan lebih lanjut volume pesanan yang tinggi selama puncak jam makan siang.
-```
 
 ---
 
+```
 ## 📬 Hubungi Saya
 
 Jika Anda memiliki pertanyaan atau ingin berdiskusi mengenai proyek ini, jangan ragu untuk menghubungi saya.
